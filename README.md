@@ -122,6 +122,9 @@ c.delete(task_id)                   # 软删除进回收站；hard=True 彻底�
 - token 无刷新接口，失效（4001）后需手动重抓；库会抛 `TokenExpiredError` 提示。
 - 接口非官方公开契约，前端升级后可能失配；欢迎提 issue。
 
+---
+特别感谢 LINUX DO 社区提供的交流与推广平台。
+
 ## License
 
 [MIT](LICENSE)
