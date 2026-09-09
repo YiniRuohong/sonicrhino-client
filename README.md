@@ -7,6 +7,9 @@
 > - 仅供个人学习研究与自动化操作**自己的已购账户**，请遵守服务条款；商用/滥用后果自负。
 > - 需要自行拥有声云账户（新账户有免费体验时长，年费会员 6120 分钟）。
 
+**特别感谢 LINUX DO（https://linux.do/t/topic/2877523） 社区提供的交流与推广平台。**
+
+
 ## 安装
 
 需要 Python ≥ 3.9；探测音频时长依赖 `ffprobe`（`brew install ffmpeg` / `apt install ffmpeg`）。
@@ -123,7 +126,6 @@ c.delete(task_id)                   # 软删除进回收站；hard=True 彻底�
 - 接口非官方公开契约，前端升级后可能失配；欢迎提 issue。
 
 ---
-特别感谢 LINUX DO 社区提供的交流与推广平台。
 
 ## License
 
